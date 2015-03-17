@@ -1,5 +1,7 @@
 {
     "TutorialModule":
     [
+		"BaseClass",
+		"SubClass"
     ]
 }
